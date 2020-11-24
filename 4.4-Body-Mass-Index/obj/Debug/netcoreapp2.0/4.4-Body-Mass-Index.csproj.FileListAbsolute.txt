@@ -1,0 +1,11 @@
+/Users/benjamindanielmorgan/Projects/4.4-Body-Mass-Index/4.4-Body-Mass-Index/bin/Debug/netcoreapp2.0/4.4-Body-Mass-Index.deps.json
+/Users/benjamindanielmorgan/Projects/4.4-Body-Mass-Index/4.4-Body-Mass-Index/bin/Debug/netcoreapp2.0/4.4-Body-Mass-Index.runtimeconfig.json
+/Users/benjamindanielmorgan/Projects/4.4-Body-Mass-Index/4.4-Body-Mass-Index/bin/Debug/netcoreapp2.0/4.4-Body-Mass-Index.runtimeconfig.dev.json
+/Users/benjamindanielmorgan/Projects/4.4-Body-Mass-Index/4.4-Body-Mass-Index/bin/Debug/netcoreapp2.0/4.4-Body-Mass-Index.dll
+/Users/benjamindanielmorgan/Projects/4.4-Body-Mass-Index/4.4-Body-Mass-Index/bin/Debug/netcoreapp2.0/4.4-Body-Mass-Index.pdb
+/Users/benjamindanielmorgan/Projects/4.4-Body-Mass-Index/4.4-Body-Mass-Index/obj/Debug/netcoreapp2.0/4.4-Body-Mass-Index.csprojResolveAssemblyReference.cache
+/Users/benjamindanielmorgan/Projects/4.4-Body-Mass-Index/4.4-Body-Mass-Index/obj/Debug/netcoreapp2.0/4.4-Body-Mass-Index.csproj.CoreCompileInputs.cache
+/Users/benjamindanielmorgan/Projects/4.4-Body-Mass-Index/4.4-Body-Mass-Index/obj/Debug/netcoreapp2.0/4.4-Body-Mass-Index.AssemblyInfoInputs.cache
+/Users/benjamindanielmorgan/Projects/4.4-Body-Mass-Index/4.4-Body-Mass-Index/obj/Debug/netcoreapp2.0/4.4-Body-Mass-Index.AssemblyInfo.cs
+/Users/benjamindanielmorgan/Projects/4.4-Body-Mass-Index/4.4-Body-Mass-Index/obj/Debug/netcoreapp2.0/4.4-Body-Mass-Index.dll
+/Users/benjamindanielmorgan/Projects/4.4-Body-Mass-Index/4.4-Body-Mass-Index/obj/Debug/netcoreapp2.0/4.4-Body-Mass-Index.pdb
